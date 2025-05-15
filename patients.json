@@ -1,0 +1,112 @@
+[
+  {
+    "id": "PID001",
+    "name": "Aisha Sharma",
+    "age": 35,
+    "gender": "Female",
+    "city": "Mumbai",
+    "height": 162,
+    "weight": 75,
+    "bmi": 28.6,
+    "verdict": "Overweight"
+  },
+  {
+    "id": "PID002",
+    "name": "Rahul Verma",
+    "age": 48,
+    "gender": "Male",
+    "city": "Delhi",
+    "height": 175,
+    "weight": 90,
+    "bmi": 29.4,
+    "verdict": "Overweight"
+  },
+  {
+    "id": "PID003",
+    "name": "Priya Patel",
+    "age": 29,
+    "gender": "Female",
+    "city": "Bengaluru",
+    "height": 158,
+    "weight": 50,
+    "bmi": 20.0,
+    "verdict": "Normal"
+  },
+  {
+    "id": "PID004",
+    "name": "Suresh Kumar",
+    "age": 62,
+    "gender": "Male",
+    "city": "Chennai",
+    "height": 170,
+    "weight": 85,
+    "bmi": 29.4,
+    "verdict": "Overweight"
+  },
+  {
+    "id": "PID005",
+    "name": "Divya Nair",
+    "age": 22,
+    "gender": "Female",
+    "city": "Kolkata",
+    "height": 165,
+    "weight": 52,
+    "bmi": 19.1,
+    "verdict": "Normal"
+  },
+  {
+    "id": "PID006",
+    "name": "Amit Singh",
+    "age": 55,
+    "gender": "Male",
+    "city": "Hyderabad",
+    "height": 180,
+    "weight": 105,
+    "bmi": 32.4,
+    "verdict": "Obese"
+  },
+  {
+    "id": "PID007",
+    "name": "Sneha Reddy",
+    "age": 31,
+    "gender": "Female",
+    "city": "Pune",
+    "height": 160,
+    "weight": 48,
+    "bmi": 18.8,
+    "verdict": "Underweight"
+  },
+  {
+    "id": "PID008",
+    "name": "Vikram Joshi",
+    "age": 40,
+    "gender": "Male",
+    "city": "Ahmedabad",
+    "height": 178,
+    "weight": 70,
+    "bmi": 22.1,
+    "verdict": "Normal"
+  },
+  {
+    "id": "PID009",
+    "name": "Meera Menon",
+    "age": 27,
+    "gender": "Female",
+    "city": "Cochin",
+    "height": 155,
+    "weight": 45,
+    "bmi": 18.7,
+    "verdict": "Underweight"
+  },
+  {
+    "id": "PID010",
+    "name": "Rajesh Pillai",
+    "age": 50,
+    "gender": "Male",
+    "city": "Jaipur",
+    "height": 172,
+    "weight": 95,
+    "bmi": 32.1,
+    "verdict": "Obese"
+  }
+]
