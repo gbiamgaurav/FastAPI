@@ -22,4 +22,16 @@ def view():
     data = load_data()
     return data
 
+@app.post("/add")
+def add():
+    return {"message": "Add patient"}
+
+@app.put("/update")
+def update():
+    return {"message": "Update patient"}
+
+@app.delete("/delete")
+def delete():
+    return {"message": "Delete patient"}
+
 
